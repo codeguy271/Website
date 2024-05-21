@@ -96,12 +96,12 @@ a {
 }
 
 .btn-white-bg {
-  background-color: #000000;
-  color: #fff;
+  background-color: #fff;
+  color: #000000;
 }
 
 .btn-white-bg:hover {
-  background-color: #eee;
+  background-color: #000000;
 }
 
 .scroll-down-section {
