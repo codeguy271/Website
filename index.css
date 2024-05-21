@@ -50,7 +50,7 @@ a {
 
 .navbar-brand,
 .nav-link {
-  color: #fff;
+  color: #ffa500;
 }
 
 .nav-link.active {
@@ -61,7 +61,7 @@ a {
   background-color: rgba(255, 255, 255, 0.1);
   backdrop-filter: blur(10px);
   border: none; /* border for mem card fix cuz it broke lol */
-  color: #fff;
+  color: #ffa500;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
   transition: box-shadow 0.3s ease-in-out;
 }
@@ -77,12 +77,12 @@ a {
 }
 
 .btn-outline-light {
-  border-color: #fff;
-  color: #fff;
+  border-color: #ffa500;
+  color: #ffa500;
 }
 
 .btn-outline-light:hover {
-  background-color: #fff;
+  background-color: #ffa500;
   color: #333;
 }
 
@@ -96,7 +96,7 @@ a {
 }
 
 .btn-white-bg {
-  background-color: #fff;
+  background-color: #ffa500;
   color: #333;
 }
 
@@ -132,7 +132,7 @@ a {
 }
 
 .about-text {
-  color: #fff;
+  color: #ffa500;
   font-size: 16px;
   margin: 0;
   position: relative;
