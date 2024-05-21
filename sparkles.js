@@ -17,7 +17,7 @@ const canvas = document.getElementById("sparkleCanvas");
         draw() {
           if (this.size > 8) {
             ctx.font = `${this.size + 13}px monospace`;
-            ctx.fillStyle = "#fff";
+            ctx.fillStyle = "#FFA500";
             ctx.fillText(".", this.x, this.y);
             return;
           }
