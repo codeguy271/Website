@@ -1,6 +1,6 @@
 body {
   font-family: 'Montserrat', sans-serif;
-  background: linear-gradient(135deg, #626880,#99d1db);
+  background: linear-gradient(135deg, #FFB3D1,#FFC0CB);
   background-attachment: fixed;
   min-height: 100vh;
   color: #fff;
@@ -16,7 +16,7 @@ body.loaded {
 }
 
 a {
-  color: #303446;
+  color: #FFD9E8;
 }
 
 .header {
@@ -24,7 +24,7 @@ a {
   position: sticky;
   top: 0;
   z-index: 1000;
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(255, 207, 241, 0.5);
   opacity: 0;
   transition: opacity 1s ease-in-out;
 }
@@ -124,7 +124,7 @@ a {
   color: #ef9f76;
 }
 .about-box {
-  background-color: rgba(128, 128, 128, 0.5);
+  background-color: rgba(255, 192, 203, 0.5);
   border-radius: 10px;
   padding: 20px;
   display: inline-block;
